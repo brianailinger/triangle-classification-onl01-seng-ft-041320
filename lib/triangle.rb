@@ -1,4 +1,5 @@
 class Triangle
   # write code here
-  attr_reader :a, :b, :c,
+  attr_reader :a, :b, :c
+  def
 end
